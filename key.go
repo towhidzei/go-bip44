@@ -2,7 +2,7 @@ package bip44
 
 import (
 	"encoding/hex"
-	"github.com/btcsuite/btcutil/hdkeychain"
+	"github.com/btcsuite/btcd/btcutil/hdkeychain"
 )
 
 type ExtendedKey struct {

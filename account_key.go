@@ -1,7 +1,7 @@
 package bip44
 
 import (
-	"github.com/btcsuite/btcutil/hdkeychain"
+	"github.com/btcsuite/btcd/btcutil/hdkeychain"
 )
 
 type AccountKey struct {
